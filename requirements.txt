@@ -1,0 +1,11 @@
+streamlit
+crewai
+crewai-tools
+langchain-groq
+chromadb
+pysqlite3-binary
+onnxruntime
+langchain-chroma
+grpcio
+grpcio-tools
+python-dotenv
